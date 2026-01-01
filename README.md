@@ -11,3 +11,4 @@ KOMIT : 행동 변화 유도를 위한 한국어 동기면담 심리상담 데�
 
 <img width="998" height="389" alt="image" src="https://github.com/user-attachments/assets/9739940c-aff5-4179-9f0f-82989dfcce65" />
 
+<img width="2116" height="917" alt="image" src="https://github.com/user-attachments/assets/8d7d4bdd-6e8c-44d5-b397-4b01fe99a81c" />
